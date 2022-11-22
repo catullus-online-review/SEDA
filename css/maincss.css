@@ -89,7 +89,7 @@ nav {
 
 .navbar,
 .nav {
-    background-color: #8d6e35 !important;
+    background-color: #a09b84 !important;
     cursor: pointer;
 }
 
@@ -142,12 +142,12 @@ nav {
 }
 /* ===== LINKS ===== */
 a.nav-link:hover {
-    color: #c00c2c;
+    color: #622b09;
     text-shadow: 2px 2px 5px rgb(135, 124, 99);
 }
 a:any-link {
     text-decoration: none;
-    color: ##622b09;
+    color: #622b09;
     cursor: pointer;
 }
 /* ===== HOME PAGE CAROUSEL ===== */
