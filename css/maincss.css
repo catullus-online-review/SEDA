@@ -675,6 +675,20 @@ h2 {
     
 
 		
+.hero-image3 {
+
+    background-image: url("https://alpha.psyche.co/images/537e2813-5cf8-483f-9af1-2e5bf255ecd4/2700x1530.jpg");
+
+
+    height: 50%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    filter: brightness(500%);
+    filter: opacity(95%);
+}
 
 
 
