@@ -75,7 +75,7 @@
 
 body {
     font-family: Didot;
-    background-color: #dedcde;
+    background-color: #8d6e35
 
 }
 
@@ -84,12 +84,12 @@ body {
 nav {
     font-family: 'Didot';
     font-size: 1.2em !important;
-    color: #c00c2c !important;
+    color: #cfae6e !important;
 }
 
 .navbar,
 .nav {
-    background-color: #dedcde !important;
+    background-color: #8d6e35 !important;
     cursor: pointer;
 }
 
