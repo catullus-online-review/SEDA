@@ -75,7 +75,7 @@
 
 body {
     font-family: Didot;
-    background-color: #8d6e35
+    background-color: #cfccbb
 
 }
 
@@ -147,7 +147,7 @@ a.nav-link:hover {
 }
 a:any-link {
     text-decoration: none;
-    color: #c00c2c;
+    color: ##622b09;
     cursor: pointer;
 }
 /* ===== HOME PAGE CAROUSEL ===== */
